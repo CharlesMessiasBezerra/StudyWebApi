@@ -1,0 +1,13 @@
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.exe
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.exe
+c:\users\rafael\documents\visual studio 2015\Projects\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.pdb
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.exe.config
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.exe
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\bin\Debug\LojaAPIClient.pdb
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.csproj.CoreCompileInputs.cache
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.exe
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.pdb
+D:\Developer\Curso-Web-API-2-O-framework-de-cria-o-web-services-REST-no-.NET-518ccb23068eadfe7b5391e9efbd39d79b576faa\LojaAPIClient\LojaAPIClient\obj\Debug\LojaAPIClient.csprojAssemblyReference.cache
